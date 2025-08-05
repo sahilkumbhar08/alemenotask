@@ -1,0 +1,8 @@
+django
+djangorestframework
+pathlib
+python-decouple
+pandas
+python-dateutil
+django-cors-headers
+psycopg2
